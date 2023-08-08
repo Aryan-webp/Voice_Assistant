@@ -21,7 +21,7 @@ USES : Open a program, play music, write a note, take a picture, call someone, s
 LIMITATIONS : STELLA is not implemented with machine learning i.e. it cannot learn things from past user
               experience. Every time you launch it, it starts as new.
 
-Looking forward to help you my friend..
+Looking forward to help you; my friend..
 
 Yours skillfully,
 STELLA
